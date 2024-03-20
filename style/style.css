@@ -1,0 +1,36 @@
+.login__header {
+    background-image: linear-gradient(to bottom, #3c53a8, #24245f);
+}
+
+.page-footer__mobile-app-links__badge_img{
+    width: 100%;
+    height: 100%;
+    background-color: white !important;
+}
+
+
+
+.a_div{
+    width: 140px; 
+    height: 40px;
+    background-color: white !important;
+}
+
+.login_app_links{
+    display: none;
+}
+
+.header-localization-select-adopt{
+    display: none;
+    width: fit-content;
+    height: fit-content;
+}
+
+.message__help_wide_adopt{
+    display: none;
+}
+
+/* .header-anon__content{
+    display: flex;
+    align-items: center !important;
+} */
